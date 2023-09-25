@@ -1,2 +1,2 @@
 # Data Driven Engineering Projects
-- Carlos Zuna Largo
+This repository contains all of the self-completed projects from Steven L. Brunton's Data Driven Science and Engineering: Machine Learning Textbook
