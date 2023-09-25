@@ -1,3 +1,6 @@
+# Compute SVD Full and Economy
+# Carlos Zuna Largo 
+
 import numpy as np
 
 # Create random data Matrix
